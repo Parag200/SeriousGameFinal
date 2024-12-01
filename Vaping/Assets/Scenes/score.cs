@@ -12,10 +12,9 @@ public class Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Update final score
-        finalscore = playerMove.score;
+       
 
         // Display score in TextMeshPro
-        scoreText.text = finalscore.ToString()  + "/5";
+        scoreText.text = playerMove.score.ToString()  + "/5";
     }
 }

@@ -305,12 +305,12 @@ public class PlayerMove : MonoBehaviour
 
     public void Q1True()
     {
-        score++;
+      
         Q2.SetActive(true);
     }
     public void Q1False()
     {
-        score = score + 0;
+        score++;
         Q2.SetActive(true);
     }
 
@@ -327,12 +327,12 @@ public class PlayerMove : MonoBehaviour
 
     public void Q3True()
     {
-        score++;
+        
         Q4.SetActive(true);
     }
     public void Q3False()
     {
-        score = score + 0;
+        score++;
         Q4.SetActive(true);
     }
 
