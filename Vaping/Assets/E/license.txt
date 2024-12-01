@@ -1,0 +1,11 @@
+Model Information:
+* title:	Popcorn
+* source:	https://sketchfab.com/3d-models/popcorn-0c081e9e326e4ad2b92652eeac84b573
+* author:	Priya Mangal The Object Thingy (https://sketchfab.com/kmorganc1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Popcorn" (https://sketchfab.com/3d-models/popcorn-0c081e9e326e4ad2b92652eeac84b573) by Priya Mangal The Object Thingy (https://sketchfab.com/kmorganc1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
